@@ -75,7 +75,7 @@ pkg install python git
 
 Clone the repository:
 
-git clone https://github.com/YOUR-USERNAME/INDRA.git
+git clone https://github.com/AlureonHD/INDRA
 cd INDRA
 
 Run INDRA:
@@ -88,7 +88,7 @@ python INDRA.py
 2. Open Command Prompt or PowerShell.
 3. Clone the repository:
 
-git clone https://github.com/YOUR-USERNAME/INDRA.git
+git clone https://github.com/AlureonHD/INDRA
 cd INDRA
 
 4. Run the tool:
@@ -105,7 +105,7 @@ Install Python from https://www.python.org/downloads/macos/
 
 Open Terminal and run:
 
-git clone https://github.com/YOUR-USERNAME/INDRA.git
+git clone https://github.com/AlureonHD/INDRA
 cd INDRA
 python3 INDRA.py
 
@@ -118,7 +118,7 @@ sudo apt install python3 python3-pip git
 
 Clone and run:
 
-git clone https://github.com/YOUR-USERNAME/INDRA.git
+git clone https://github.com/AlureonHD/INDRA
 cd INDRA
 python3 INDRA.py
 
@@ -148,7 +148,7 @@ On macOS/Linux, you may need:
 
 python3 -m pip install -r requirements.txt
 
-Repository not found: Replace "YOUR-USERNAME/INDRA" with the actual GitHub username and repository name.
+Repository not found: Replace "AlureonHD/INDRA" with the actual GitHub username and repository name.
 
 Responsible Use
 
